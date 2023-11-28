@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.click-button {
+  background-color: transparent;
+  padding: 10px;
+  border-color: #0284c7;
+  border-style: solid;
+  border-radius: 10px;
+}
